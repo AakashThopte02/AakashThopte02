@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5t25mw9ZSdvlG-mVue69-5V8cEsvZowVzhw&usqp=CAU" alt="coding" width="400"/>
 
-<p align="left"> <img src="https://www.lambdatest.com/resources/images/news24.gif" alt="aakashthopte02" /> </p>
+<p align="left"> <img src="[https://www.lambdatest.com/resources/images/news24.gif](https://komarev.com/ghpvc/?username=aakashthopte02&label=Profile%20views&color=0e75b6&style=flat)" alt="aakashthopte02" /> </p>
 
 - 💬 Ask me about **Java, HTML, CSS, Bootstrap, JavaScript, React.js,**
 
